@@ -1,3 +1,3 @@
-# All Queries Are In .txt File
+# All SQL Queries Are In .txt File
 
 -Warlock99
